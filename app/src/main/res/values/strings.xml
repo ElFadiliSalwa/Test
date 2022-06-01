@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Local Store</string>
-    <string name="description"></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Connect</string>
+    <string name="register">Inscrivez-vous</string>
+    <string name="full_name">Nom complet</string>
+    <string name="phone">Num téléphone</string>
+    <string name="btn_register">Inscription</string>
+    <string name="login">Se connecter</string>
 </resources>
